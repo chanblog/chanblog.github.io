@@ -8,28 +8,171 @@
 >
 
     <channel>
-        <title>MY BLOG</title>
+        <title>蝉 BLOG</title>
         <atom:link href="%7balternate%20%7bRSS%20application/rss&#43;xml%20%20index%20alternate%20%20false%20false%20true%20false%20false%200%7d%20/index.xml%20https://chanblog.github.io/index.xml%7d" rel="self" type="application/rss+xml" />
         <link>https://chanblog.github.io/</link>
         <managingEditor>兰暮蝉</managingEditor>
-        <description>A simple, performance-first, SEO-friendly Hugo theme</description>
-        <lastBuildDate>Mon, 09 Jan 2023 10:34:21 +0800</lastBuildDate>
+        <description>好好生活，天天向上</description>
+        <lastBuildDate>Mon, 09 Jan 2023 10:24:05 +0800</lastBuildDate>
         <language>zh-CN</language>
         <generator>Hugo -- gohugo.io</generator><item>
-            <title>测试2</title>
-            <link>https://chanblog.github.io/posts/%E6%B5%8B%E8%AF%952/</link>
-            <pubDate>Mon, 09 Jan 2023 10:34:21 +0800</pubDate>
-            <guid>https://chanblog.github.io/posts/%E6%B5%8B%E8%AF%952/</guid><description>&lt;p&gt;这里是测试二！
-🚵🐾😒👌😁❤️🤣😂😘😊😑😍&lt;/p&gt;
-</description></item><item>
-            <title>测试</title>
-            <link>https://chanblog.github.io/posts/%E6%B5%8B%E8%AF%95/</link>
+            <title>这是一个测试文章！</title>
+            <link>https://chanblog.github.io/2023/01/09/test.html/</link>
             <pubDate>Mon, 09 Jan 2023 10:24:05 +0800</pubDate>
-            <guid>https://chanblog.github.io/posts/%E6%B5%8B%E8%AF%95/</guid><description>&lt;p&gt;这是一个测试文章！&lt;/p&gt;
-</description></item><item>
-            <title>Site站</title>
-            <link>https://chanblog.github.io/posts/site/</link>
-            <pubDate>Mon, 09 Jan 2023 00:11:09 +0800</pubDate>
-            <guid>https://chanblog.github.io/posts/site/</guid><description>&lt;p&gt;zhi时&lt;/p&gt;
+            <guid>https://chanblog.github.io/2023/01/09/test.html/</guid><description>&lt;blockquote&gt;
+&lt;p&gt;这是一个测试文章！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+
+&lt;h1 class=&#34;group &#34; id=&#34;哈&#34;
+    &gt;哈&lt;a href=&#34;#%e5%93%88&#34;
+        &gt;&lt;i class=&#34;eva eva-link ml-3 align-middle text-theme opacity-0 transition ease-in-out group-hover:opacity-100&#34;&gt;&lt;/i&gt;&lt;/a
+&gt;&lt;/h1&gt;
+
+
+
+&lt;h2 class=&#34;group &#34; id=&#34;哈-1&#34;
+    &gt;哈&lt;a href=&#34;#%e5%93%88-1&#34;
+        &gt;&lt;i class=&#34;eva eva-link ml-3 align-middle text-theme opacity-0 transition ease-in-out group-hover:opacity-100&#34;&gt;&lt;/i&gt;&lt;/a
+&gt;&lt;/h2&gt;
+
+
+
+&lt;h3 class=&#34;group &#34; id=&#34;哈-2&#34;
+    &gt;哈&lt;a href=&#34;#%e5%93%88-2&#34;
+        &gt;&lt;i class=&#34;eva eva-link ml-3 align-middle text-theme opacity-0 transition ease-in-out group-hover:opacity-100&#34;&gt;&lt;/i&gt;&lt;/a
+&gt;&lt;/h3&gt;
+
+
+
+&lt;h4 class=&#34;group &#34; id=&#34;哈-3&#34;
+    &gt;哈&lt;a href=&#34;#%e5%93%88-3&#34;
+        &gt;&lt;i class=&#34;eva eva-link ml-3 align-middle text-theme opacity-0 transition ease-in-out group-hover:opacity-100&#34;&gt;&lt;/i&gt;&lt;/a
+&gt;&lt;/h4&gt;
+
+
+
+&lt;h5 class=&#34;group &#34; id=&#34;哈-4&#34;
+    &gt;哈&lt;a href=&#34;#%e5%93%88-4&#34;
+        &gt;&lt;i class=&#34;eva eva-link ml-3 align-middle text-theme opacity-0 transition ease-in-out group-hover:opacity-100&#34;&gt;&lt;/i&gt;&lt;/a
+&gt;&lt;/h5&gt;
+
+&lt;div class=&#34;highlight&#34;&gt;&lt;div style=&#34;color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;
+&lt;table style=&#34;border-spacing:0;padding:0;margin:0;border:0;&#34;&gt;&lt;tr&gt;&lt;td style=&#34;vertical-align:top;padding:0;margin:0;border:0;&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code&gt;&lt;span style=&#34;white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;padding:0;margin:0;border:0;;width:100%&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#8be9fd;font-style:italic&#34;&gt;print&lt;/span&gt;(&lt;span style=&#34;color:#f1fa8c&#34;&gt;&amp;#34;HELLO WORLD!&amp;#34;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;$$
+\begin{align}
+p(v_i=1|\mathbf{h}) &amp;amp; = \sigma\left(\sum_j w_{ij}h_j + b_i\right) \
+p(h_j=1|\mathbf{v}) &amp;amp; = \sigma\left(\sum_i w_{ij}v_i + c_j\right)
+\end{align}
+$$&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;1&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;2&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;3&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;😎😘😢🐾❤️😶‍🌫️🤕🙉🦕🏄🚣‍♀️&lt;/p&gt;
+&lt;div class=&#34;carousel&#34;&gt;
+    &lt;div class=&#34;slider-wrapper&#34;&gt;&lt;input id=&#34;slide-623854791-0&#34;checked=&#34;checked&#34;name=&#34;slide-623854791-slides&#34; type=&#34;radio&#34; /&gt;&lt;input id=&#34;slide-623854791-1&#34;name=&#34;slide-623854791-slides&#34; type=&#34;radio&#34; /&gt;&lt;input id=&#34;slide-623854791-2&#34;name=&#34;slide-623854791-slides&#34; type=&#34;radio&#34; /&gt;&lt;input id=&#34;slide-623854791-3&#34;name=&#34;slide-623854791-slides&#34; type=&#34;radio&#34; /&gt;&lt;div class=&#34;slider-arrow-nav&#34;&gt;&lt;label class=&#34;nav-arrow prev&#34; for=&#34;slide-623854791-0&#34;&gt;&lt;/label&gt;&lt;label class=&#34;nav-arrow prev&#34; for=&#34;slide-623854791-1&#34;&gt;&lt;/label&gt;&lt;label class=&#34;nav-arrow prev&#34; for=&#34;slide-623854791-2&#34;&gt;&lt;/label&gt;&lt;label class=&#34;nav-arrow prev&#34; for=&#34;slide-623854791-3&#34;&gt;&lt;/label&gt;&lt;/div&gt;
+        &lt;div class=&#34;slider-arrow-nav&#34;&gt;&lt;label class=&#34;nav-arrow next&#34; for=&#34;slide-623854791-0&#34;&gt;&lt;/label&gt;&lt;label class=&#34;nav-arrow next&#34; for=&#34;slide-623854791-1&#34;&gt;&lt;/label&gt;&lt;label class=&#34;nav-arrow next&#34; for=&#34;slide-623854791-2&#34;&gt;&lt;/label&gt;&lt;label class=&#34;nav-arrow next&#34; for=&#34;slide-623854791-3&#34;&gt;&lt;/label&gt;&lt;/div&gt;
+        &lt;div class=&#34;slider-nav&#34;&gt;&lt;label class=&#34;nav-button&#34; for=&#34;slide-623854791-0&#34;&gt;&lt;/label&gt;&lt;label class=&#34;nav-button&#34; for=&#34;slide-623854791-1&#34;&gt;&lt;/label&gt;&lt;label class=&#34;nav-button&#34; for=&#34;slide-623854791-2&#34;&gt;&lt;/label&gt;&lt;label class=&#34;nav-button&#34; for=&#34;slide-623854791-3&#34;&gt;&lt;/label&gt;&lt;/div&gt;
+        &lt;div class=&#34;slider-content&#34;&gt;&lt;div class=&#34;slide slide-623854791-0&#34;&gt;
+                    &lt;img src=&#34;https://unsplash.it/1920/1080/?random=1&#34; /&gt;
+                    &lt;img src=&#34;https://unsplash.it/1920/1080/?random=1&#34; alt=&#34;&#34; /&gt;
+                &lt;/div&gt;&lt;div class=&#34;slide slide-623854791-1&#34;&gt;
+                    &lt;img src=&#34;https://unsplash.it/1920/1080/?random=2&#34; /&gt;
+                    &lt;img src=&#34;https://unsplash.it/1920/1080/?random=2&#34; alt=&#34;&#34; /&gt;
+                &lt;/div&gt;&lt;div class=&#34;slide slide-623854791-2&#34;&gt;
+                    &lt;img src=&#34;https://unsplash.it/1920/1080/?random=3&#34; /&gt;
+                    &lt;img src=&#34;https://unsplash.it/1920/1080/?random=3&#34; alt=&#34;&#34; /&gt;
+                &lt;/div&gt;&lt;div class=&#34;slide slide-623854791-3&#34;&gt;
+                    &lt;img src=&#34;https://unsplash.it/1920/1080/?random=4&#34; /&gt;
+                    &lt;img src=&#34;https://unsplash.it/1920/1080/?random=4&#34; alt=&#34;&#34; /&gt;
+                &lt;/div&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;style&gt;#slide-623854791-0:checked ~ .slider-content .slide-623854791-0{
+                
+                opacity:1;
+            }
+            #slide-623854791-0:checked ~ .slider-nav .nav-button[for=&#34;slide-623854791-0&#34;]{
+                    background: rgba(255,255,255,1);
+            }
+            #slide-623854791-0:checked ~ .slider-arrow-nav .nav-arrow.next[for=&#34;slide-623854791-0&#34;] + .nav-arrow{
+                z-index:4;
+            }
+            #slide-623854791-0:checked ~ .slider-arrow-nav .nav-arrow.next[for=&#34;slide-623854791-0&#34;]:last-of-type{
+                z-index:2;
+            }
+            #slide-623854791-0:checked ~ .slider-arrow-nav .nav-arrow.prev[for=&#34;slide-623854791-0&#34;],
+            #slide-623854791-0:checked ~ .slider-arrow-nav .nav-arrow.prev[for=&#34;slide-623854791-0&#34;] ~ .nav-arrow.prev{
+                z-index:2;
+            }#slide-623854791-1:checked ~ .slider-content .slide-623854791-1{
+                
+                opacity:1;
+            }
+            #slide-623854791-1:checked ~ .slider-nav .nav-button[for=&#34;slide-623854791-1&#34;]{
+                    background: rgba(255,255,255,1);
+            }
+            #slide-623854791-1:checked ~ .slider-arrow-nav .nav-arrow.next[for=&#34;slide-623854791-1&#34;] + .nav-arrow{
+                z-index:4;
+            }
+            #slide-623854791-1:checked ~ .slider-arrow-nav .nav-arrow.next[for=&#34;slide-623854791-1&#34;]:last-of-type{
+                z-index:2;
+            }
+            #slide-623854791-1:checked ~ .slider-arrow-nav .nav-arrow.prev[for=&#34;slide-623854791-1&#34;],
+            #slide-623854791-1:checked ~ .slider-arrow-nav .nav-arrow.prev[for=&#34;slide-623854791-1&#34;] ~ .nav-arrow.prev{
+                z-index:2;
+            }#slide-623854791-2:checked ~ .slider-content .slide-623854791-2{
+                
+                opacity:1;
+            }
+            #slide-623854791-2:checked ~ .slider-nav .nav-button[for=&#34;slide-623854791-2&#34;]{
+                    background: rgba(255,255,255,1);
+            }
+            #slide-623854791-2:checked ~ .slider-arrow-nav .nav-arrow.next[for=&#34;slide-623854791-2&#34;] + .nav-arrow{
+                z-index:4;
+            }
+            #slide-623854791-2:checked ~ .slider-arrow-nav .nav-arrow.next[for=&#34;slide-623854791-2&#34;]:last-of-type{
+                z-index:2;
+            }
+            #slide-623854791-2:checked ~ .slider-arrow-nav .nav-arrow.prev[for=&#34;slide-623854791-2&#34;],
+            #slide-623854791-2:checked ~ .slider-arrow-nav .nav-arrow.prev[for=&#34;slide-623854791-2&#34;] ~ .nav-arrow.prev{
+                z-index:2;
+            }#slide-623854791-3:checked ~ .slider-content .slide-623854791-3{
+                
+                opacity:1;
+            }
+            #slide-623854791-3:checked ~ .slider-nav .nav-button[for=&#34;slide-623854791-3&#34;]{
+                    background: rgba(255,255,255,1);
+            }
+            #slide-623854791-3:checked ~ .slider-arrow-nav .nav-arrow.next[for=&#34;slide-623854791-3&#34;] + .nav-arrow{
+                z-index:4;
+            }
+            #slide-623854791-3:checked ~ .slider-arrow-nav .nav-arrow.next[for=&#34;slide-623854791-3&#34;]:last-of-type{
+                z-index:2;
+            }
+            #slide-623854791-3:checked ~ .slider-arrow-nav .nav-arrow.prev[for=&#34;slide-623854791-3&#34;],
+            #slide-623854791-3:checked ~ .slider-arrow-nav .nav-arrow.prev[for=&#34;slide-623854791-3&#34;] ~ .nav-arrow.prev{
+                z-index:2;
+            }&lt;/style&gt;
+&lt;/div&gt;
+
 </description></item></channel>
 </rss>

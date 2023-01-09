@@ -1,12 +1,12 @@
 {
-    "theme_color": "#dd6065",
+    "theme_color": "#00BFFF",
     "background_color": "#ffffff",
     "display": "standalone",
     "scope": "/",
     "start_url": "/",
-    "name": "MY BLOG",
-    "short_name": "Ice-Hazymoon",
-    "description": "MY BLOG",
+    "name": "蝉 BLOG",
+    "short_name": "兰暮蝉",
+    "description": "蝉 BLOG",
     "icons": [
         {
             "src": "/icon_hu7e6333c33b843299f3e08ecb471a654d_1139261_192x192_resize_catmullrom_3.png",
