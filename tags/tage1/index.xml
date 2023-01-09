@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tage1 on MY BLOG</title>
+    <link>https://chanblog.github.io/tags/tage1/</link>
+    <description>Recent content in tage1 on MY BLOG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 09 Jan 2023 00:11:09 +0800</lastBuildDate><atom:link href="https://chanblog.github.io/tags/tage1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Site站</title>
+      <link>https://chanblog.github.io/posts/site/</link>
+      <pubDate>Mon, 09 Jan 2023 00:11:09 +0800</pubDate>
+      
+      <guid>https://chanblog.github.io/posts/site/</guid>
+      <description>zhi时</description>
+    </item>
+    
+  </channel>
+</rss>
