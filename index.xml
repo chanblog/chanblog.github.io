@@ -90,86 +90,86 @@ $$&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;😎😘😢🐾❤️😶‍🌫️🤕🙉🦕🏄🚣‍♀️&lt;/p&gt;
 &lt;div class=&#34;carousel&#34;&gt;
-    &lt;div class=&#34;slider-wrapper&#34;&gt;&lt;input id=&#34;slide-532184697-0&#34;checked=&#34;checked&#34;name=&#34;slide-532184697-slides&#34; type=&#34;radio&#34; /&gt;&lt;input id=&#34;slide-532184697-1&#34;name=&#34;slide-532184697-slides&#34; type=&#34;radio&#34; /&gt;&lt;input id=&#34;slide-532184697-2&#34;name=&#34;slide-532184697-slides&#34; type=&#34;radio&#34; /&gt;&lt;input id=&#34;slide-532184697-3&#34;name=&#34;slide-532184697-slides&#34; type=&#34;radio&#34; /&gt;&lt;div class=&#34;slider-arrow-nav&#34;&gt;&lt;label class=&#34;nav-arrow prev&#34; for=&#34;slide-532184697-0&#34;&gt;&lt;/label&gt;&lt;label class=&#34;nav-arrow prev&#34; for=&#34;slide-532184697-1&#34;&gt;&lt;/label&gt;&lt;label class=&#34;nav-arrow prev&#34; for=&#34;slide-532184697-2&#34;&gt;&lt;/label&gt;&lt;label class=&#34;nav-arrow prev&#34; for=&#34;slide-532184697-3&#34;&gt;&lt;/label&gt;&lt;/div&gt;
-        &lt;div class=&#34;slider-arrow-nav&#34;&gt;&lt;label class=&#34;nav-arrow next&#34; for=&#34;slide-532184697-0&#34;&gt;&lt;/label&gt;&lt;label class=&#34;nav-arrow next&#34; for=&#34;slide-532184697-1&#34;&gt;&lt;/label&gt;&lt;label class=&#34;nav-arrow next&#34; for=&#34;slide-532184697-2&#34;&gt;&lt;/label&gt;&lt;label class=&#34;nav-arrow next&#34; for=&#34;slide-532184697-3&#34;&gt;&lt;/label&gt;&lt;/div&gt;
-        &lt;div class=&#34;slider-nav&#34;&gt;&lt;label class=&#34;nav-button&#34; for=&#34;slide-532184697-0&#34;&gt;&lt;/label&gt;&lt;label class=&#34;nav-button&#34; for=&#34;slide-532184697-1&#34;&gt;&lt;/label&gt;&lt;label class=&#34;nav-button&#34; for=&#34;slide-532184697-2&#34;&gt;&lt;/label&gt;&lt;label class=&#34;nav-button&#34; for=&#34;slide-532184697-3&#34;&gt;&lt;/label&gt;&lt;/div&gt;
-        &lt;div class=&#34;slider-content&#34;&gt;&lt;div class=&#34;slide slide-532184697-0&#34;&gt;
+    &lt;div class=&#34;slider-wrapper&#34;&gt;&lt;input id=&#34;slide-956321847-0&#34;checked=&#34;checked&#34;name=&#34;slide-956321847-slides&#34; type=&#34;radio&#34; /&gt;&lt;input id=&#34;slide-956321847-1&#34;name=&#34;slide-956321847-slides&#34; type=&#34;radio&#34; /&gt;&lt;input id=&#34;slide-956321847-2&#34;name=&#34;slide-956321847-slides&#34; type=&#34;radio&#34; /&gt;&lt;input id=&#34;slide-956321847-3&#34;name=&#34;slide-956321847-slides&#34; type=&#34;radio&#34; /&gt;&lt;div class=&#34;slider-arrow-nav&#34;&gt;&lt;label class=&#34;nav-arrow prev&#34; for=&#34;slide-956321847-0&#34;&gt;&lt;/label&gt;&lt;label class=&#34;nav-arrow prev&#34; for=&#34;slide-956321847-1&#34;&gt;&lt;/label&gt;&lt;label class=&#34;nav-arrow prev&#34; for=&#34;slide-956321847-2&#34;&gt;&lt;/label&gt;&lt;label class=&#34;nav-arrow prev&#34; for=&#34;slide-956321847-3&#34;&gt;&lt;/label&gt;&lt;/div&gt;
+        &lt;div class=&#34;slider-arrow-nav&#34;&gt;&lt;label class=&#34;nav-arrow next&#34; for=&#34;slide-956321847-0&#34;&gt;&lt;/label&gt;&lt;label class=&#34;nav-arrow next&#34; for=&#34;slide-956321847-1&#34;&gt;&lt;/label&gt;&lt;label class=&#34;nav-arrow next&#34; for=&#34;slide-956321847-2&#34;&gt;&lt;/label&gt;&lt;label class=&#34;nav-arrow next&#34; for=&#34;slide-956321847-3&#34;&gt;&lt;/label&gt;&lt;/div&gt;
+        &lt;div class=&#34;slider-nav&#34;&gt;&lt;label class=&#34;nav-button&#34; for=&#34;slide-956321847-0&#34;&gt;&lt;/label&gt;&lt;label class=&#34;nav-button&#34; for=&#34;slide-956321847-1&#34;&gt;&lt;/label&gt;&lt;label class=&#34;nav-button&#34; for=&#34;slide-956321847-2&#34;&gt;&lt;/label&gt;&lt;label class=&#34;nav-button&#34; for=&#34;slide-956321847-3&#34;&gt;&lt;/label&gt;&lt;/div&gt;
+        &lt;div class=&#34;slider-content&#34;&gt;&lt;div class=&#34;slide slide-956321847-0&#34;&gt;
                     &lt;img src=&#34;https://unsplash.it/1920/1080/?random=1&#34; /&gt;
                     &lt;img src=&#34;https://unsplash.it/1920/1080/?random=1&#34; alt=&#34;&#34; /&gt;
-                &lt;/div&gt;&lt;div class=&#34;slide slide-532184697-1&#34;&gt;
+                &lt;/div&gt;&lt;div class=&#34;slide slide-956321847-1&#34;&gt;
                     &lt;img src=&#34;https://unsplash.it/1920/1080/?random=2&#34; /&gt;
                     &lt;img src=&#34;https://unsplash.it/1920/1080/?random=2&#34; alt=&#34;&#34; /&gt;
-                &lt;/div&gt;&lt;div class=&#34;slide slide-532184697-2&#34;&gt;
+                &lt;/div&gt;&lt;div class=&#34;slide slide-956321847-2&#34;&gt;
                     &lt;img src=&#34;https://unsplash.it/1920/1080/?random=3&#34; /&gt;
                     &lt;img src=&#34;https://unsplash.it/1920/1080/?random=3&#34; alt=&#34;&#34; /&gt;
-                &lt;/div&gt;&lt;div class=&#34;slide slide-532184697-3&#34;&gt;
+                &lt;/div&gt;&lt;div class=&#34;slide slide-956321847-3&#34;&gt;
                     &lt;img src=&#34;https://unsplash.it/1920/1080/?random=4&#34; /&gt;
                     &lt;img src=&#34;https://unsplash.it/1920/1080/?random=4&#34; alt=&#34;&#34; /&gt;
                 &lt;/div&gt;&lt;/div&gt;
     &lt;/div&gt;
-    &lt;style&gt;#slide-532184697-0:checked ~ .slider-content .slide-532184697-0{
+    &lt;style&gt;#slide-956321847-0:checked ~ .slider-content .slide-956321847-0{
                 
                 opacity:1;
             }
-            #slide-532184697-0:checked ~ .slider-nav .nav-button[for=&#34;slide-532184697-0&#34;]{
+            #slide-956321847-0:checked ~ .slider-nav .nav-button[for=&#34;slide-956321847-0&#34;]{
                     background: rgba(255,255,255,1);
             }
-            #slide-532184697-0:checked ~ .slider-arrow-nav .nav-arrow.next[for=&#34;slide-532184697-0&#34;] + .nav-arrow{
+            #slide-956321847-0:checked ~ .slider-arrow-nav .nav-arrow.next[for=&#34;slide-956321847-0&#34;] + .nav-arrow{
                 z-index:4;
             }
-            #slide-532184697-0:checked ~ .slider-arrow-nav .nav-arrow.next[for=&#34;slide-532184697-0&#34;]:last-of-type{
+            #slide-956321847-0:checked ~ .slider-arrow-nav .nav-arrow.next[for=&#34;slide-956321847-0&#34;]:last-of-type{
                 z-index:2;
             }
-            #slide-532184697-0:checked ~ .slider-arrow-nav .nav-arrow.prev[for=&#34;slide-532184697-0&#34;],
-            #slide-532184697-0:checked ~ .slider-arrow-nav .nav-arrow.prev[for=&#34;slide-532184697-0&#34;] ~ .nav-arrow.prev{
+            #slide-956321847-0:checked ~ .slider-arrow-nav .nav-arrow.prev[for=&#34;slide-956321847-0&#34;],
+            #slide-956321847-0:checked ~ .slider-arrow-nav .nav-arrow.prev[for=&#34;slide-956321847-0&#34;] ~ .nav-arrow.prev{
                 z-index:2;
-            }#slide-532184697-1:checked ~ .slider-content .slide-532184697-1{
+            }#slide-956321847-1:checked ~ .slider-content .slide-956321847-1{
                 
                 opacity:1;
             }
-            #slide-532184697-1:checked ~ .slider-nav .nav-button[for=&#34;slide-532184697-1&#34;]{
+            #slide-956321847-1:checked ~ .slider-nav .nav-button[for=&#34;slide-956321847-1&#34;]{
                     background: rgba(255,255,255,1);
             }
-            #slide-532184697-1:checked ~ .slider-arrow-nav .nav-arrow.next[for=&#34;slide-532184697-1&#34;] + .nav-arrow{
+            #slide-956321847-1:checked ~ .slider-arrow-nav .nav-arrow.next[for=&#34;slide-956321847-1&#34;] + .nav-arrow{
                 z-index:4;
             }
-            #slide-532184697-1:checked ~ .slider-arrow-nav .nav-arrow.next[for=&#34;slide-532184697-1&#34;]:last-of-type{
+            #slide-956321847-1:checked ~ .slider-arrow-nav .nav-arrow.next[for=&#34;slide-956321847-1&#34;]:last-of-type{
                 z-index:2;
             }
-            #slide-532184697-1:checked ~ .slider-arrow-nav .nav-arrow.prev[for=&#34;slide-532184697-1&#34;],
-            #slide-532184697-1:checked ~ .slider-arrow-nav .nav-arrow.prev[for=&#34;slide-532184697-1&#34;] ~ .nav-arrow.prev{
+            #slide-956321847-1:checked ~ .slider-arrow-nav .nav-arrow.prev[for=&#34;slide-956321847-1&#34;],
+            #slide-956321847-1:checked ~ .slider-arrow-nav .nav-arrow.prev[for=&#34;slide-956321847-1&#34;] ~ .nav-arrow.prev{
                 z-index:2;
-            }#slide-532184697-2:checked ~ .slider-content .slide-532184697-2{
+            }#slide-956321847-2:checked ~ .slider-content .slide-956321847-2{
                 
                 opacity:1;
             }
-            #slide-532184697-2:checked ~ .slider-nav .nav-button[for=&#34;slide-532184697-2&#34;]{
+            #slide-956321847-2:checked ~ .slider-nav .nav-button[for=&#34;slide-956321847-2&#34;]{
                     background: rgba(255,255,255,1);
             }
-            #slide-532184697-2:checked ~ .slider-arrow-nav .nav-arrow.next[for=&#34;slide-532184697-2&#34;] + .nav-arrow{
+            #slide-956321847-2:checked ~ .slider-arrow-nav .nav-arrow.next[for=&#34;slide-956321847-2&#34;] + .nav-arrow{
                 z-index:4;
             }
-            #slide-532184697-2:checked ~ .slider-arrow-nav .nav-arrow.next[for=&#34;slide-532184697-2&#34;]:last-of-type{
+            #slide-956321847-2:checked ~ .slider-arrow-nav .nav-arrow.next[for=&#34;slide-956321847-2&#34;]:last-of-type{
                 z-index:2;
             }
-            #slide-532184697-2:checked ~ .slider-arrow-nav .nav-arrow.prev[for=&#34;slide-532184697-2&#34;],
-            #slide-532184697-2:checked ~ .slider-arrow-nav .nav-arrow.prev[for=&#34;slide-532184697-2&#34;] ~ .nav-arrow.prev{
+            #slide-956321847-2:checked ~ .slider-arrow-nav .nav-arrow.prev[for=&#34;slide-956321847-2&#34;],
+            #slide-956321847-2:checked ~ .slider-arrow-nav .nav-arrow.prev[for=&#34;slide-956321847-2&#34;] ~ .nav-arrow.prev{
                 z-index:2;
-            }#slide-532184697-3:checked ~ .slider-content .slide-532184697-3{
+            }#slide-956321847-3:checked ~ .slider-content .slide-956321847-3{
                 
                 opacity:1;
             }
-            #slide-532184697-3:checked ~ .slider-nav .nav-button[for=&#34;slide-532184697-3&#34;]{
+            #slide-956321847-3:checked ~ .slider-nav .nav-button[for=&#34;slide-956321847-3&#34;]{
                     background: rgba(255,255,255,1);
             }
-            #slide-532184697-3:checked ~ .slider-arrow-nav .nav-arrow.next[for=&#34;slide-532184697-3&#34;] + .nav-arrow{
+            #slide-956321847-3:checked ~ .slider-arrow-nav .nav-arrow.next[for=&#34;slide-956321847-3&#34;] + .nav-arrow{
                 z-index:4;
             }
-            #slide-532184697-3:checked ~ .slider-arrow-nav .nav-arrow.next[for=&#34;slide-532184697-3&#34;]:last-of-type{
+            #slide-956321847-3:checked ~ .slider-arrow-nav .nav-arrow.next[for=&#34;slide-956321847-3&#34;]:last-of-type{
                 z-index:2;
             }
-            #slide-532184697-3:checked ~ .slider-arrow-nav .nav-arrow.prev[for=&#34;slide-532184697-3&#34;],
-            #slide-532184697-3:checked ~ .slider-arrow-nav .nav-arrow.prev[for=&#34;slide-532184697-3&#34;] ~ .nav-arrow.prev{
+            #slide-956321847-3:checked ~ .slider-arrow-nav .nav-arrow.prev[for=&#34;slide-956321847-3&#34;],
+            #slide-956321847-3:checked ~ .slider-arrow-nav .nav-arrow.prev[for=&#34;slide-956321847-3&#34;] ~ .nav-arrow.prev{
                 z-index:2;
             }&lt;/style&gt;
 &lt;/div&gt;
